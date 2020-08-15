@@ -11,4 +11,4 @@
 
 **Note: All the styles where made using the library [tachyons](https://tachyons.io/). The goal was React, not CSS.** <br />
 
-### Clone this repo and `npm start` to see React at its simplest =)
+**Clone this repo and `npm start` to see React at its simplest =)**
