@@ -7,8 +7,8 @@
 
 * Once the robots are loaded, you can search for specific names using the search box. <br />
 
-* The state management is handled using `Redux`. <br />
+* The state management is handled using [Redux](https://redux.js.org/). <br />
 
-**Note: All the styles where made using the library `tachyons`. The goal whas React, not CSS** <br />
+**Note: All the styles where made using the library [tachyons](https://tachyons.io/). The goal was React, not CSS.** <br />
 
-### clone this repo and `npm start` to see React at its simplest =)
+### Clone this repo and `npm start` to see React at its simplest =)
