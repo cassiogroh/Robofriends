@@ -1,6 +1,5 @@
 <h1 align="center">
   <img alt="Logo" src="./public/logo.png" width="250px"> </br>
-  Robofriends
 </h1>
 
 <h3 align="center">
@@ -38,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img alt="Robofriends" src="./public/mockup.png" width="70%">
+  <img alt="Robofriends" src="./public/mockupView.png" width="70%">
 </p>
 
 ## 💇🏻‍♂️ About the project
