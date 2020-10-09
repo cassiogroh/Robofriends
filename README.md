@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Web application to check make new hightech friends </br>
+  Web application to make new hightech friends </br>
 </h3>
 
 <p align="center">Simple and easy way to find new friends using the power of ReactJS!</p>
